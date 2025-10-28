@@ -251,29 +251,40 @@ Atualmente trabalhando em:
 
 ## 🎯 Áreas de Interesse
 
-```javascript
-const myInterests = {
-    current_focus: [
-        "MLOps & Model Deployment",
-        "Secure AI Systems",
-        "Scalable ML Pipelines",
-        "Explainable AI",
-        "Big Data ML Integration"
-    ],
-    exploring: [
-        "Generative AI",
-        "LLMs & Fine-tuning",
-        "Federated Learning",
-        "AI Safety & Alignment"
-    ],
-    passion: [
-        "AI Ethics",
-        "Data Privacy",
-        "Responsible Tech",
-        "Tech for Good"
-    ]
-};
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔥 Foco Atual
+- 🚀 MLOps & Model Deployment
+- 🔐 Secure AI Systems
+- 📊 Scalable ML Pipelines
+- 🔍 Explainable AI
+- 💾 Big Data ML Integration
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 Explorando
+- 🎨 Generative AI
+- 🤖 LLMs & Fine-tuning
+- 🌐 Federated Learning
+- 🛡️ AI Safety & Alignment
+- ☁️ Cloud ML (AWS/GCP)
+
+</td>
+<td width="33%" valign="top">
+
+### ❤️ Paixões
+- ⚖️ AI Ethics
+- 🔒 Data Privacy
+- 🌍 Responsible Tech
+- 💚 Tech for Good
+- 🧠 Philosophy of AI
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -292,9 +303,9 @@ const myInterests = {
 
 | 🎯 Conquista | Status | Ano |
 |--------------|--------|-----|
-| 🎓 Bacharelado em Filosofia | ✅ | [Ano] |
-| 📊 Pós-Graduação Big Data | ✅ | [Ano] |
-| 💻 Certificação Full Stack | ✅ | [Ano] |
+| 🎓 Bacharelado em Filosofia | ✅ | 2021 |
+| 📊 Pós-Graduação Big Data | ✅ | 2025 |
+| 💻 Certificação Full Stack | ✅ | 2025 |
 | 🔐 Pós Cibersegurança | 🔄 | 2025 |
 | 🤖 Pós ML & IA | 🔄 | 2025 |
 
