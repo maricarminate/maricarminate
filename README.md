@@ -323,7 +323,21 @@ Atualmente trabalhando em:
 
 <div align="center">
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-snake.svg">
+</picture>
+
+</div>
+
+### 📈 Mais Estatísticas
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
