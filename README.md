@@ -327,7 +327,7 @@ Atualmente trabalhando em:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&hide_border=true&area=true)](https://github.com/seu-usuario)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maricarminate&theme=react-dark&hide_border=true&area=true)](https://github.com/maricarminate)
 
 </div>
 ---
