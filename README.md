@@ -20,45 +20,31 @@
 
 Sou uma **desenvolvedora multidisciplinar** com uma combinação única de habilidades que vai desde Filosofia até Machine Learning e Cibersegurança.
 
-```python
-class DeveloperProfile:
-    def __init__(self):
-        self.name = "Seu Nome"
-        self.location = "São Paulo, Brasil"
-        
-        # Formação acadêmica
-        self.education = {
-            "graduacao": "Filosofia",
-            "pos_concluida": ["Big Data"],
-            "pos_em_andamento": ["Cibersegurança", "Machine Learning & IA"],
-            "certificacoes": ["Full Stack Developer"]
-        }
-        
-        # Stack técnico
-        self.stack = {
-            "frontend": ["React", "JavaScript", "HTML5", "CSS3"],
-            "backend": ["Node.js", "Python", "Express"],
-            "databases": ["PostgreSQL", "MongoDB", "SQL"],
-            "big_data": ["Hadoop", "Spark", "Kafka", "ETL"],
-            "ml_ai": ["TensorFlow", "Keras", "Scikit-learn", "Computer Vision"],
-            "security": ["OWASP", "Secure Coding", "DevSecOps"],
-            "tools": ["Git", "Docker", "VS Code", "Jupyter"]
-        }
-        
-        # Soft skills da Filosofia
-        self.philosophy_brings = [
-            "Pensamento crítico",
-            "Análise de vieses em dados",
-            "Ética em IA",
-            "Comunicação clara de ideias complexas"
-        ]
-        
-    def current_focus(self):
-        return ["MLOps", "Secure AI", "Scalable ML Pipelines", "Explainable AI"]
-    
-    def my_approach(self):
-        return "Construo tecnologia que é inteligente, segura, escalável e ética"
-```
+### 🎓 Educação
+- 🧠 Bacharelado em **Filosofia**
+- 📊 Pós-Graduação em **Big Data** ✅
+- 🔐 Pós-Graduação em **Cibersegurança** 🔄
+- 🤖 Pós-Graduação em **ML & IA** 🔄
+- 💻 Certificação **Full Stack Developer** ✅
+
+### 💡 O Que Me Diferencia
+
+**Filosofia** me ensinou a:
+- Pensar criticamente sobre problemas complexos
+- Questionar pressupostos em algoritmos
+- Desenvolver IA com consciência ética
+- Comunicar ideias técnicas com clareza
+
+**Tech** me permite:
+- Construir sistemas completos (Full Stack)
+- Processar dados em escala (Big Data)
+- Criar modelos inteligentes (ML/AI)
+- Proteger o que construo (Cybersecurity)
+
+### 🎯 Resultado
+> Sistemas de IA completos, seguros, escaláveis e éticos
+
+**Atualmente focada em:** MLOps • Secure AI • Big Data ML • Explainable AI
 
 ---
 
