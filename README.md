@@ -70,11 +70,11 @@ graph LR
 
 | 🎯 Área | Status | Instituição |
 |---------|--------|-------------|
-| 🎓 Filosofia | ✅ Concluído | [Nome da Universidade] |
-| 📊 Big Data | ✅ Concluído | [Nome da Instituição] |
-| 💻 Full Stack | ✅ Concluído | [Nome da Instituição] |
-| 🔐 Cibersegurança | 🔄 Em Andamento | [Nome da Instituição] |
-| 🤖 ML & IA | 🔄 Em Andamento | [Nome da Instituição] |
+| 🎓 Filosofia | ✅ Concluído | Universidade Federal de Juiz de Fora |
+| 📊 Big Data | ✅ Concluído | Faculdade Iguaçu |
+| 💻 Full Stack | ✅ Concluído | Codi Academy |
+| 🔐 Cibersegurança | 🔄 Em Andamento | Faculdade Iguaçu |
+| 🤖 ML & IA | 🔄 Em Andamento | Centro Universitário Uniunica |
 
 ---
 
@@ -321,23 +321,11 @@ Atualmente trabalhando em:
 
 ## 🌍 Contribuições Open Source
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-snake.svg">
-</picture>
-
-</div>
-
-### 📈 Mais Estatísticas
+## 🐍 Contribuições
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Snake animation](https://raw.githubusercontent.com/maricarminate/maricarminate/output/github-snake.svg)
 
 </div>
 
