@@ -323,12 +323,13 @@ Atualmente trabalhando em:
 
 ## 🐍 Contribuições
 
+## 📊 Minhas Contribuições
+
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/maricarminate/maricarminate/output/github-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=react-dark&hide_border=true&area=true)](https://github.com/seu-usuario)
 
 </div>
-
 ---
 
 ## 📫 Vamos Conectar!
