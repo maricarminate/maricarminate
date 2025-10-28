@@ -26,6 +26,10 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # IMPORTANTE: Faz checkout do repositório primeiro
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
       # Gera a animação da cobrinha
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -35,11 +39,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      
-      # Mostra status
-      - name: Show status
-        run: git status
       
       # Publica na branch output
       - name: Push to output branch
