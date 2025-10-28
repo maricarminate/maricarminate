@@ -147,7 +147,7 @@ graph LR
 
 ## 🌟 Projetos em Destaque
 
-### 🌸 [Classificador de Flores - Transfer Learning](https://github.com/seu-usuario/classificador-flores)
+### 🌸 [Classificador de Flores - Transfer Learning](https://github.com/maricarminate/classificador-flores)
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Sistema completo de classificação de 5 tipos de flores usando **Transfer Learn
 
 ---
 
-### 🐱 [Classificador de Gatos e Cachorros - CNN](https://github.com/seu-usuario/classificador-animais)
+### 🐱 [Classificador de Gatos e Cachorros - CNN](https://github.com/maricarminate/classificador-animais)
 
 <div align="center">
 
