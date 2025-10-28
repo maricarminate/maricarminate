@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou [Mariana Carminate]
+# 👋 Olá! Eu sou Mariana Carminate
 
 ### 🧠 Filósofa | 💻 Full Stack Developer | 📊 Big Data Specialist | 🤖 ML Engineer | 🔐 Cybersecurity
 
