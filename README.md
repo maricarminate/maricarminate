@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mariana Carminate
 
-🧠 **Philosopher** | 💻 **Full Stack Developer** | 📊 **Big Data Specialist** | 🤖 **ML Engineer** | 🔐 **Cybersecurity**
+🧠 **Philosopher** | 💻 **Full Stack Developer** | 📊 **Postgraduate in Big Data, ML & IA and Cybersecurity**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your.email@gmail.com)
@@ -15,11 +15,11 @@
 I'm a multidisciplinary developer with a unique combination of skills ranging from Philosophy to Machine Learning and Cybersecurity.
 
 ### 🎓 Education
-- 🧠 **Bachelor's Degree in Philosophy** ✅
-- 📊 **Postgraduate in Big Data** ✅
-- 🔐 **Postgraduate in Cybersecurity** 🔄
-- 🤖 **Postgraduate in ML & AI** 🔄
-- 💻 **Full Stack Developer Certification** ✅
+- 🧠 **Bachelor's Degree in Philosophy (UFJF)** ✅
+- 📊 **Postgraduate in Big Data (Faculdade Iguaçu)** ✅
+- 🔐 **Postgraduate in Cybersecurity (Faculdade Iguaçu)** 🔄
+- 🤖 **Postgraduate in ML & AI (Instituto Prominas)** 🔄
+- 💻 **Full Stack Developer Certification (Codi Academy)** ✅
 
 ### 💡 What Sets Me Apart
 
