@@ -1,234 +1,210 @@
-# Olá! Eu sou a Mariana 👋
+# 👋 Olá! Eu sou a Mariana Carminate
 
-### Full Stack Developer | Python & AI
+### Software Developer | Python • Full Stack • AI/ML
 
-Sou desenvolvedora em formação, atualmente cursando **Ciência da Computação**, com formação anterior em **Filosofia**.
+Sou desenvolvedora em formação e estudante de **Ciência da Computação**, com formação anterior em **Filosofia**.
 
-Tenho experiência prática desenvolvendo projetos **Full Stack, Machine Learning e Inteligência Artificial**, e atualmente estou direcionando meus estudos para **Engenharia de Software, desenvolvimento de APIs e aplicações inteligentes**.
+Tenho experiência prática construindo projetos de **desenvolvimento web, APIs, Machine Learning e aplicações de IA**. Atualmente, estou aprofundando meus conhecimentos em **Engenharia de Software, desenvolvimento backend e integração de modelos de Machine Learning em aplicações reais**.
 
-Gosto de transformar problemas reais em soluções de software, combinando desenvolvimento de aplicações, dados e IA.
-
-🔎 **Atualmente buscando oportunidades de estágio ou posição Junior em Desenvolvimento de Software, Full Stack, Front-end Back-end ou IA/ML.**
+🔎 **Buscando oportunidades de estágio ou posição Junior em Desenvolvimento de Software, Frontend, Backend, Full Stack ou Python/AI.**
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Desenvolvimento
+### 💻 Desenvolvimento Web
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
 
-### Backend & APIs
-
-* REST APIs
+* Desenvolvimento Full Stack
+* Desenvolvimento Backend
+* APIs REST
 * FastAPI
-* Backend development
-* Autenticação e autorização
-* Integração de APIs
-* Arquitetura de aplicações
+* JavaScript
+* React
+* PHP
+* HTML & CSS
 
-### Banco de Dados
+### 🗄️ Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 
 * SQL
 * Modelagem de dados
-* Bancos relacionais e NoSQL
+* SQLAlchemy
+* PostgreSQL
+* MySQL
+* SQLite
 
-### DevOps & Ferramentas
+### 🤖 Machine Learning & AI
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
-
-* Git & GitHub
-* Docker / Docker Compose
-* CI/CD
-* Linux
-
-### AI / Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat\&logo=xgboost\&logoColor=white)
 
 * Machine Learning
+* Classificação
 * Natural Language Processing
-* Deep Learning
-* Computer Vision
-* Transfer Learning
-* MLOps
+* Processamento e preparação de dados
+* Modelos supervisionados
 * Experiment Tracking
+* MLOps
+
+### 🔧 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+
+* Git & GitHub
+* Docker
+* Docker Compose
+* REST APIs
+* Swagger / OpenAPI
 
 ---
 
-## 🚀 Projetos em destaque
+# 🚀 Projetos em destaque
 
-### 🏥 HealthIA
+## 🏥 [HealthIA](https://github.com/maricarminate/HealthIA)
 
 **API de Machine Learning para previsão de possíveis diagnósticos a partir de sintomas descritos pelo usuário.**
 
-O projeto combina **Processamento de Linguagem Natural e Machine Learning** para transformar sintomas textuais em previsões utilizando um modelo XGBoost.
+O projeto combina **Processamento de Linguagem Natural e Machine Learning**, utilizando TF-IDF para transformar sintomas textuais em características e XGBoost para classificação.
 
-A aplicação foi estruturada como uma **API REST com FastAPI**, separando responsabilidades entre API, serviços de treinamento, vetorização, persistência do modelo e execução das predições.
+A aplicação foi estruturada como uma **API REST com FastAPI**, com separação entre endpoints, serviços de treinamento, vetorização, persistência dos artefatos e execução das predições. O sistema trabalha com 20 possíveis classes de diagnóstico.
 
-**Tecnologias:**
+**Tecnologias:** Python • FastAPI • XGBoost • scikit-learn • TF-IDF • pandas • joblib • Uvicorn
 
-* Python
-* FastAPI
-* XGBoost
-* scikit-learn
-* TF-IDF
-* pandas
-* joblib
-* Uvicorn
+**O que explorei:**
 
-**Principais conceitos explorados:**
+* NLP aplicado a classificação
+* Treinamento e persistência de modelos
+* Construção de API REST
+* Organização de código em serviços
+* Documentação automática com Swagger
 
-* NLP
-* classificação supervisionada
-* vetorização de texto
-* treinamento e persistência de modelos
-* construção de APIs REST
-* documentação automática com Swagger
-
-⚠️ Projeto educacional. As previsões não devem ser utilizadas para diagnóstico médico real.
-
-👉 [Ver projeto](https://github.com/maricarminate/HealthIA)
+> ⚠️ Projeto educacional. Não deve ser utilizado para diagnóstico médico real.
 
 ---
 
-### 🔬 ExperimentVault
+## 🔬 [ExperimentVault](https://github.com/maricarminate/experiment-vault)
 
-**Plataforma de MLOps para gerenciamento, versionamento e comparação de experimentos de Machine Learning.**
+**Plataforma de MLOps para acompanhamento, versionamento e comparação de experimentos de Machine Learning.**
 
-O projeto explora a aplicação de conceitos de **Engenharia de Software ao ciclo de vida de modelos de Machine Learning**.
+O projeto combina **backend em FastAPI, frontend em React e um cliente Python**, permitindo registrar parâmetros, métricas e artefatos, além de acompanhar branch e commit Git para melhorar a reprodutibilidade dos experimentos.
 
-**Principais recursos:**
+**Tecnologias:** Python • FastAPI • React • SQLAlchemy • PostgreSQL/SQLite • JavaScript • Git
 
-* Experiment Tracking
-* Versionamento de experimentos
-* Comparação de resultados
+**O que explorei:**
+
 * REST API
-* Python SDK
+* Arquitetura backend/frontend
+* ORM e persistência de dados
+* Experiment Tracking
 * Integração com Git
-* Docker
-* Docker Compose
-* Arquitetura modular
-
-👉 [Ver projeto](https://github.com/maricarminate/experiment-vault)
+* Python SDK
+* Dashboard em React
+* Comparação de experimentos
+* Organização de aplicações em múltiplos serviços
 
 ---
 
-### 🐾 MeowManager
+## 🐾 [MeowManager](https://github.com/maricarminate/MeowManager)
 
 **Aplicação web para gerenciamento da rotina e dos cuidados de gatos.**
 
-O sistema permite que tutores criem perfis para seus gatos e acompanhem vacinação, peso, lembretes e gastos com alimentação.
+O sistema permite que tutores criem perfis para seus gatos e acompanhem **vacinação, histórico de peso, lembretes e gastos com alimentação**.
 
-O projeto demonstra a construção de uma aplicação web completa, incluindo **autenticação, CRUD, banco de dados, regras de negócio, upload de arquivos e visualização de dados**.
+É um projeto Full Stack desenvolvido sem frameworks frontend, utilizando PHP com PDO no backend e MySQL para persistência dos dados.
 
-**Tecnologias:**
+**Tecnologias:** PHP • MySQL • JavaScript • HTML5 • CSS3 • PDO
 
-* PHP
-* MySQL
-* JavaScript
-* HTML5
-* CSS3
-* PDO
+**O que explorei:**
 
-**Principais recursos:**
-
-* Cadastro e autenticação de usuários
-* Senhas protegidas com `password_hash` / `password_verify`
-* CRUD de perfis de gatos
-* Upload de fotos
-* Carteira de vacinação
-* Alertas de vacinação
-* Histórico de peso com gráficos SVG
-* Sistema de lembretes
-* Controle de gastos com alimentação
-* Relacionamentos e `ON DELETE CASCADE`
-
-👉 [Ver projeto](https://github.com/maricarminate/MeowManager)
+* Autenticação de usuários
+* CRUD completo
+* Relacionamentos entre tabelas
+* Upload de arquivos
+* Validação e gerenciamento de dados
+* Gráficos SVG gerados a partir dos dados
+* `password_hash` / `password_verify`
+* `ON DELETE CASCADE`
+* Organização de uma aplicação web completa
 
 ---
 
-### 🎵 Classificador de Gêneros Musicais
+## 🎵 [Classificador de Gêneros Musicais](https://github.com/maricarminate/Classificador-de-G-neros-Musicais)
 
 **Projeto de Machine Learning para classificação de gêneros musicais.**
 
-O projeto explora o desenvolvimento de um pipeline de classificação, incluindo organização dos dados, processamento, treinamento, testes e apresentação dos resultados.
+O projeto explora um pipeline de Machine Learning envolvendo **preparação dos dados, treinamento, testes, processamento dos resultados e integração com uma interface web**.
 
-O repositório está organizado em diferentes componentes, incluindo dados processados, resultados, código-fonte, interface web, scripts de treinamento e testes.
+O repositório está organizado em módulos de dados processados, resultados, código-fonte e aplicação web, além de scripts específicos para download do dataset, treinamento e testes.
 
-**Principais conceitos explorados:**
+**O que explorei:**
 
 * Machine Learning
-* classificação
-* preparação e processamento de dados
-* treinamento de modelos
-* avaliação de resultados
-* organização de projetos de ML
-* integração entre modelo e aplicação web
-
-👉 [Ver projeto](https://github.com/maricarminate/Classificador-de-G-neros-Musicais)
+* Classificação
+* Preparação e processamento de dados
+* Treinamento e avaliação de modelos
+* Organização de projetos de ML
+* Integração entre modelo e aplicação
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 Estou aprofundando meus conhecimentos em:
 
 * Engenharia de Software
 * Clean Code & SOLID
 * Arquitetura de Software
-* Desenvolvimento de APIs
 * Testes automatizados
+* Desenvolvimento de APIs
+* Banco de dados
 * Docker
 * CI/CD
 * Cloud
-* Sistemas distribuídos
 * Machine Learning aplicado a produtos
 
 ---
 
-## 🎯 O que estou buscando
+# 🎯 O que estou buscando
 
 Estou aberta a oportunidades de:
 
-* **Estágio em Desenvolvimento de Software**
-* **Estágio Full Stack**
-* **Estágio Backend**
-* **Estágio em Python**
-* **Estágio em IA / Machine Learning**
+* 💻 **Estágio em Desenvolvimento de Software**
+* 🔧 **Estágio Backend**
+* 🌐 **Estágio Full Stack**
+* 🐍 **Estágio em Python**
+* 🤖 **Estágio em AI / Machine Learning**
 
-Também tenho interesse em posições Junior que valorizem desenvolvimento contínuo, aprendizado e crescimento técnico.
+Também tenho interesse em posições Junior que ofereçam espaço para aprendizado e crescimento técnico.
 
 ---
 
-## 💡 Um pouco sobre mim
+# 🧠 Sobre mim
 
-Minha formação começou na **Filosofia**, área que desenvolveu meu pensamento crítico, capacidade de análise e interesse por problemas complexos.
+Minha primeira formação foi em **Filosofia**, uma área que desenvolveu meu pensamento crítico, capacidade de análise e interesse por problemas complexos.
 
 Hoje, na **Ciência da Computação**, estou combinando essa base com programação, Engenharia de Software e Inteligência Artificial.
 
-Acredito que essa combinação me permite abordar problemas de forma **analítica, crítica e orientada à construção de soluções**, unindo fundamentos de computação com uma perspectiva interdisciplinar.
+Essa trajetória me levou a uma área que considero especialmente interessante: **construir sistemas que não apenas funcionem, mas que sejam compreensíveis, úteis e responsáveis.**
 
 ---
 
-## 📫 Vamos conversar?
+# 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:SEU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/maricarminate)
 
 ---
 
-*"Building software, learning continuously, and turning ideas into working systems."*
+> *Building software, learning continuously, and turning ideas into working systems.*
